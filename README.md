@@ -8,6 +8,14 @@
 
 <br>
 
+## The project
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/66792313/161424710-641de0cf-a1a7-401e-8568-e05efac4c4bb.png">
+
+This is a web platform *(only available for desktop version right now)* where you can listen to episodes from the podcast FalaDev by @Rockeseat. It has a section to highlight the two latest episodes and a list of previous episodes.
+
+You can preview this project [here!](https://next-podcastr-rho.vercel.app/)
+
 ## 👾 Technologies
 
 This project was developed using the following technologies:
